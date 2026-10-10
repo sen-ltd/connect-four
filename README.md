@@ -93,3 +93,10 @@ table and three at a time, 4×8 took 1.6 s again.
 ## License
 
 MIT © SEN LLC
+
+<!-- sen-publish:links -->
+## Links
+
+- 🌐 Demo: https://sen.ltd/portfolio/connect-four/
+- 📝 記事: https://qiita.com/sen-ltd/items/3bd59b295d481a2ef4c0
+<!-- /sen-publish:links -->
