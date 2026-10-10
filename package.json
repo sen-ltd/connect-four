@@ -1,0 +1,24 @@
+{
+  "name": "connect-four",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Connect Four against a perfect player on any board size: one C solver, compiled natively to recompute John Tromp's board-size table and position counts, and to WebAssembly for the page.",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "serve": "vite preview --port 4173",
+    "test": "vitest run",
+    "wasm": "native/build-wasm.sh",
+    "literature": "node tools/fetch-literature.mts",
+    "stats": "node tools/stats.mts"
+  },
+  "devDependencies": {
+    "@types/node": "^22.20.1",
+    "typescript": "^5.6.3",
+    "vite": "^5.4.11",
+    "vitest": "^2.1.5"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,544 @@
+{
+ "fetched": "2026-10-10",
+ "tromp": {
+  "url": "https://tromp.github.io/c4/c4.html",
+  "results": [
+   {
+    "w": 4,
+    "h": 11,
+    "value": "="
+   },
+   {
+    "w": 4,
+    "h": 10,
+    "value": "="
+   },
+   {
+    "w": 5,
+    "h": 10,
+    "value": "="
+   },
+   {
+    "w": 4,
+    "h": 9,
+    "value": "="
+   },
+   {
+    "w": 5,
+    "h": 9,
+    "value": "="
+   },
+   {
+    "w": 6,
+    "h": 9,
+    "value": "+"
+   },
+   {
+    "w": 4,
+    "h": 8,
+    "value": "="
+   },
+   {
+    "w": 5,
+    "h": 8,
+    "value": "="
+   },
+   {
+    "w": 6,
+    "h": 8,
+    "value": "-"
+   },
+   {
+    "w": 7,
+    "h": 8,
+    "value": "+"
+   },
+   {
+    "w": 8,
+    "h": 8,
+    "value": "-"
+   },
+   {
+    "w": 4,
+    "h": 7,
+    "value": "="
+   },
+   {
+    "w": 5,
+    "h": 7,
+    "value": "="
+   },
+   {
+    "w": 6,
+    "h": 7,
+    "value": "+"
+   },
+   {
+    "w": 7,
+    "h": 7,
+    "value": "="
+   },
+   {
+    "w": 8,
+    "h": 7,
+    "value": "+"
+   },
+   {
+    "w": 4,
+    "h": 6,
+    "value": "="
+   },
+   {
+    "w": 5,
+    "h": 6,
+    "value": "="
+   },
+   {
+    "w": 6,
+    "h": 6,
+    "value": "-"
+   },
+   {
+    "w": 7,
+    "h": 6,
+    "value": "+"
+   },
+   {
+    "w": 8,
+    "h": 6,
+    "value": "-"
+   },
+   {
+    "w": 9,
+    "h": 6,
+    "value": "-"
+   },
+   {
+    "w": 4,
+    "h": 5,
+    "value": "="
+   },
+   {
+    "w": 5,
+    "h": 5,
+    "value": "="
+   },
+   {
+    "w": 6,
+    "h": 5,
+    "value": "="
+   },
+   {
+    "w": 7,
+    "h": 5,
+    "value": "="
+   },
+   {
+    "w": 8,
+    "h": 5,
+    "value": "+"
+   },
+   {
+    "w": 9,
+    "h": 5,
+    "value": "+"
+   },
+   {
+    "w": 10,
+    "h": 5,
+    "value": "+"
+   },
+   {
+    "w": 4,
+    "h": 4,
+    "value": "="
+   },
+   {
+    "w": 5,
+    "h": 4,
+    "value": "="
+   },
+   {
+    "w": 6,
+    "h": 4,
+    "value": "-"
+   },
+   {
+    "w": 7,
+    "h": 4,
+    "value": "="
+   },
+   {
+    "w": 8,
+    "h": 4,
+    "value": "-"
+   },
+   {
+    "w": 9,
+    "h": 4,
+    "value": "-"
+   },
+   {
+    "w": 10,
+    "h": 4,
+    "value": "-"
+   },
+   {
+    "w": 11,
+    "h": 4,
+    "value": "-"
+   }
+  ],
+  "counts": [
+   {
+    "w": 1,
+    "h": 8,
+    "positions": 9
+   },
+   {
+    "w": 2,
+    "h": 8,
+    "positions": 13343
+   },
+   {
+    "w": 3,
+    "h": 8,
+    "positions": 8424616
+   },
+   {
+    "w": 4,
+    "h": 8,
+    "positions": 1104642469
+   },
+   {
+    "w": 1,
+    "h": 7,
+    "positions": 8
+   },
+   {
+    "w": 2,
+    "h": 7,
+    "positions": 4587
+   },
+   {
+    "w": 3,
+    "h": 7,
+    "positions": 1417322
+   },
+   {
+    "w": 4,
+    "h": 7,
+    "positions": 135385909
+   },
+   {
+    "w": 5,
+    "h": 7,
+    "positions": 14171315454
+   },
+   {
+    "w": 1,
+    "h": 6,
+    "positions": 7
+   },
+   {
+    "w": 2,
+    "h": 6,
+    "positions": 1571
+   },
+   {
+    "w": 3,
+    "h": 6,
+    "positions": 235781
+   },
+   {
+    "w": 4,
+    "h": 6,
+    "positions": 15835683
+   },
+   {
+    "w": 5,
+    "h": 6,
+    "positions": 1044334437
+   },
+   {
+    "w": 6,
+    "h": 6,
+    "positions": 69173028785
+   },
+   {
+    "w": 7,
+    "h": 6,
+    "positions": 4531985219092
+   },
+   {
+    "w": 1,
+    "h": 5,
+    "positions": 6
+   },
+   {
+    "w": 2,
+    "h": 5,
+    "positions": 537
+   },
+   {
+    "w": 3,
+    "h": 5,
+    "positions": 38310
+   },
+   {
+    "w": 4,
+    "h": 5,
+    "positions": 1706255
+   },
+   {
+    "w": 5,
+    "h": 5,
+    "positions": 69763700
+   },
+   {
+    "w": 6,
+    "h": 5,
+    "positions": 2818972642
+   },
+   {
+    "w": 7,
+    "h": 5,
+    "positions": 112829665923
+   },
+   {
+    "w": 1,
+    "h": 4,
+    "positions": 5
+   },
+   {
+    "w": 2,
+    "h": 4,
+    "positions": 179
+   },
+   {
+    "w": 3,
+    "h": 4,
+    "positions": 6000
+   },
+   {
+    "w": 4,
+    "h": 4,
+    "positions": 161029
+   },
+   {
+    "w": 5,
+    "h": 4,
+    "positions": 3945711
+   },
+   {
+    "w": 6,
+    "h": 4,
+    "positions": 94910577
+   },
+   {
+    "w": 7,
+    "h": 4,
+    "positions": 2265792710
+   },
+   {
+    "w": 8,
+    "h": 4,
+    "positions": 54233186631
+   },
+   {
+    "w": 1,
+    "h": 3,
+    "positions": 4
+   },
+   {
+    "w": 2,
+    "h": 3,
+    "positions": 58
+   },
+   {
+    "w": 3,
+    "h": 3,
+    "positions": 869
+   },
+   {
+    "w": 4,
+    "h": 3,
+    "positions": 12031
+   },
+   {
+    "w": 5,
+    "h": 3,
+    "positions": 158911
+   },
+   {
+    "w": 6,
+    "h": 3,
+    "positions": 2087325
+   },
+   {
+    "w": 7,
+    "h": 3,
+    "positions": 27441956
+   },
+   {
+    "w": 8,
+    "h": 3,
+    "positions": 362940958
+   },
+   {
+    "w": 1,
+    "h": 2,
+    "positions": 3
+   },
+   {
+    "w": 2,
+    "h": 2,
+    "positions": 18
+   },
+   {
+    "w": 3,
+    "h": 2,
+    "positions": 116
+   },
+   {
+    "w": 4,
+    "h": 2,
+    "positions": 741
+   },
+   {
+    "w": 5,
+    "h": 2,
+    "positions": 4688
+   },
+   {
+    "w": 6,
+    "h": 2,
+    "positions": 29737
+   },
+   {
+    "w": 7,
+    "h": 2,
+    "positions": 189648
+   },
+   {
+    "w": 8,
+    "h": 2,
+    "positions": 1216721
+   },
+   {
+    "w": 1,
+    "h": 1,
+    "positions": 2
+   },
+   {
+    "w": 2,
+    "h": 1,
+    "positions": 5
+   },
+   {
+    "w": 3,
+    "h": 1,
+    "positions": 13
+   },
+   {
+    "w": 4,
+    "h": 1,
+    "positions": 35
+   },
+   {
+    "w": 5,
+    "h": 1,
+    "positions": 96
+   },
+   {
+    "w": 6,
+    "h": 1,
+    "positions": 267
+   },
+   {
+    "w": 7,
+    "h": 1,
+    "positions": 750
+   },
+   {
+    "w": 8,
+    "h": 1,
+    "positions": 2118
+   }
+  ]
+ },
+ "oeis": {
+  "url": "https://oeis.org/A212693",
+  "name": "Number of legal 7 X 6 Connect-Four positions after n plies.",
+  "data": [
+   1,
+   7,
+   49,
+   238,
+   1120,
+   4263,
+   16422,
+   54859,
+   184275,
+   558186,
+   1662623,
+   4568683,
+   12236101,
+   30929111,
+   75437595,
+   176541259,
+   394591391,
+   858218743,
+   1763883894,
+   3568259802,
+   6746155945,
+   12673345045,
+   22010823988,
+   38263228189,
+   60830813459,
+   97266114959,
+   140728569039
+  ]
+ },
+ "wikipedia": {
+  "url": "https://en.wikipedia.org/wiki/Connect_Four",
+  "text": "The solved conclusion for ''Connect Four'' is first-player win. With perfect play, the first player can force a win, on or before the 41st move by starting in the middle column. The game is a theoretical draw when the first player starts in the columns adjacent to the center. For the edges of the game board, column 1 and 2 on left (or column 7 and 6 on right), the exact move-value score for first player start is loss on the 40th move, and loss on the 42nd move, respectively. In other words, by starting with the four outer columns, the first player allows the second player to force a win.",
+  "claims": [
+   {
+    "columns": [
+     4
+    ],
+    "value": "+",
+    "ply": 41,
+    "quote": "the first player can force a win, on or before the 41st move by starting in the middle column"
+   },
+   {
+    "columns": [
+     3,
+     5
+    ],
+    "value": "=",
+    "ply": null,
+    "quote": "a theoretical draw when the first player starts in the columns adjacent to the center"
+   },
+   {
+    "columns": [
+     1,
+     7
+    ],
+    "value": "-",
+    "ply": 40,
+    "quote": "column 1 and 2 on left (or column 7 and 6 on right), the exact move-value score for first player start is loss on the 40th move"
+   },
+   {
+    "columns": [
+     2,
+     6
+    ],
+    "value": "-",
+    "ply": 42,
+    "quote": "... and loss on the 42nd move, respectively"
+   }
+  ]
+ }
+}

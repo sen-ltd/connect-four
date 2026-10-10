@@ -1,0 +1,887 @@
+{
+ "table": [
+  {
+   "w": 4,
+   "h": 11,
+   "published": "=",
+   "computed": "=",
+   "nodes": 292210276,
+   "status": "ok"
+  },
+  {
+   "w": 4,
+   "h": 10,
+   "published": "=",
+   "computed": "=",
+   "nodes": 237242550,
+   "status": "ok"
+  },
+  {
+   "w": 5,
+   "h": 10,
+   "published": "=",
+   "computed": null,
+   "nodes": null,
+   "status": "timeout",
+   "cap": 600
+  },
+  {
+   "w": 4,
+   "h": 9,
+   "published": "=",
+   "computed": "=",
+   "nodes": 11637134,
+   "status": "ok"
+  },
+  {
+   "w": 5,
+   "h": 9,
+   "published": "=",
+   "computed": "=",
+   "nodes": 2176702479,
+   "status": "ok"
+  },
+  {
+   "w": 6,
+   "h": 9,
+   "published": "+",
+   "computed": null,
+   "nodes": null,
+   "status": "not-attempted"
+  },
+  {
+   "w": 4,
+   "h": 8,
+   "published": "=",
+   "computed": "=",
+   "nodes": 7467019,
+   "status": "ok"
+  },
+  {
+   "w": 5,
+   "h": 8,
+   "published": "=",
+   "computed": "=",
+   "nodes": 167021573,
+   "status": "ok"
+  },
+  {
+   "w": 6,
+   "h": 8,
+   "published": "-",
+   "computed": null,
+   "nodes": null,
+   "status": "not-attempted"
+  },
+  {
+   "w": 7,
+   "h": 8,
+   "published": "+",
+   "computed": null,
+   "nodes": null,
+   "status": "not-attempted"
+  },
+  {
+   "w": 8,
+   "h": 8,
+   "published": "-",
+   "computed": null,
+   "nodes": null,
+   "status": "too-wide"
+  },
+  {
+   "w": 4,
+   "h": 7,
+   "published": "=",
+   "computed": "=",
+   "nodes": 542795,
+   "status": "ok"
+  },
+  {
+   "w": 5,
+   "h": 7,
+   "published": "=",
+   "computed": "=",
+   "nodes": 23003394,
+   "status": "ok"
+  },
+  {
+   "w": 6,
+   "h": 7,
+   "published": "+",
+   "computed": "+",
+   "nodes": 340018016,
+   "status": "ok"
+  },
+  {
+   "w": 7,
+   "h": 7,
+   "published": "=",
+   "computed": null,
+   "nodes": null,
+   "status": "not-attempted"
+  },
+  {
+   "w": 8,
+   "h": 7,
+   "published": "+",
+   "computed": null,
+   "nodes": null,
+   "status": "not-attempted"
+  },
+  {
+   "w": 4,
+   "h": 6,
+   "published": "=",
+   "computed": "=",
+   "nodes": 269217,
+   "status": "ok"
+  },
+  {
+   "w": 5,
+   "h": 6,
+   "published": "=",
+   "computed": "=",
+   "nodes": 2746023,
+   "status": "ok"
+  },
+  {
+   "w": 6,
+   "h": 6,
+   "published": "-",
+   "computed": "-",
+   "nodes": 110761822,
+   "status": "ok"
+  },
+  {
+   "w": 7,
+   "h": 6,
+   "published": "+",
+   "computed": "+",
+   "nodes": 1953546441,
+   "status": "ok"
+  },
+  {
+   "w": 8,
+   "h": 6,
+   "published": "-",
+   "computed": null,
+   "nodes": null,
+   "status": "not-attempted"
+  },
+  {
+   "w": 9,
+   "h": 6,
+   "published": "-",
+   "computed": null,
+   "nodes": null,
+   "status": "not-attempted"
+  },
+  {
+   "w": 4,
+   "h": 5,
+   "published": "=",
+   "computed": "=",
+   "nodes": 25626,
+   "status": "ok"
+  },
+  {
+   "w": 5,
+   "h": 5,
+   "published": "=",
+   "computed": "=",
+   "nodes": 664788,
+   "status": "ok"
+  },
+  {
+   "w": 6,
+   "h": 5,
+   "published": "=",
+   "computed": "=",
+   "nodes": 3781019,
+   "status": "ok"
+  },
+  {
+   "w": 7,
+   "h": 5,
+   "published": "=",
+   "computed": "=",
+   "nodes": 35460795,
+   "status": "ok"
+  },
+  {
+   "w": 8,
+   "h": 5,
+   "published": "+",
+   "computed": "+",
+   "nodes": 386876136,
+   "status": "ok"
+  },
+  {
+   "w": 9,
+   "h": 5,
+   "published": "+",
+   "computed": null,
+   "nodes": null,
+   "status": "timeout",
+   "cap": 600
+  },
+  {
+   "w": 10,
+   "h": 5,
+   "published": "+",
+   "computed": null,
+   "nodes": null,
+   "status": "timeout",
+   "cap": 600
+  },
+  {
+   "w": 4,
+   "h": 4,
+   "published": "=",
+   "computed": "=",
+   "nodes": 9420,
+   "status": "ok"
+  },
+  {
+   "w": 5,
+   "h": 4,
+   "published": "=",
+   "computed": "=",
+   "nodes": 54445,
+   "status": "ok"
+  },
+  {
+   "w": 6,
+   "h": 4,
+   "published": "-",
+   "computed": "-",
+   "nodes": 545822,
+   "status": "ok"
+  },
+  {
+   "w": 7,
+   "h": 4,
+   "published": "=",
+   "computed": "=",
+   "nodes": 5093772,
+   "status": "ok"
+  },
+  {
+   "w": 8,
+   "h": 4,
+   "published": "-",
+   "computed": "-",
+   "nodes": 50151274,
+   "status": "ok"
+  },
+  {
+   "w": 9,
+   "h": 4,
+   "published": "-",
+   "computed": "-",
+   "nodes": 1054772982,
+   "status": "ok"
+  },
+  {
+   "w": 10,
+   "h": 4,
+   "published": "-",
+   "computed": null,
+   "nodes": null,
+   "status": "timeout",
+   "cap": 1500
+  },
+  {
+   "w": 11,
+   "h": 4,
+   "published": "-",
+   "computed": null,
+   "nodes": null,
+   "status": "timeout",
+   "cap": 600
+  }
+ ],
+ "counts": [
+  {
+   "w": 1,
+   "h": 8,
+   "published": 9,
+   "computed": 9,
+   "status": "ok"
+  },
+  {
+   "w": 2,
+   "h": 8,
+   "published": 13343,
+   "computed": 13343,
+   "status": "ok"
+  },
+  {
+   "w": 3,
+   "h": 8,
+   "published": 8424616,
+   "computed": 8424616,
+   "status": "ok"
+  },
+  {
+   "w": 4,
+   "h": 8,
+   "published": 1104642469,
+   "computed": 1104642469,
+   "status": "ok"
+  },
+  {
+   "w": 1,
+   "h": 7,
+   "published": 8,
+   "computed": 8,
+   "status": "ok"
+  },
+  {
+   "w": 2,
+   "h": 7,
+   "published": 4587,
+   "computed": 4587,
+   "status": "ok"
+  },
+  {
+   "w": 3,
+   "h": 7,
+   "published": 1417322,
+   "computed": 1417322,
+   "status": "ok"
+  },
+  {
+   "w": 4,
+   "h": 7,
+   "published": 135385909,
+   "computed": 135385909,
+   "status": "ok"
+  },
+  {
+   "w": 5,
+   "h": 7,
+   "published": 14171315454,
+   "computed": null,
+   "status": "skipped",
+   "reason": "bitmap of 19336374104 bytes"
+  },
+  {
+   "w": 1,
+   "h": 6,
+   "published": 7,
+   "computed": 7,
+   "status": "ok"
+  },
+  {
+   "w": 2,
+   "h": 6,
+   "published": 1571,
+   "computed": 1571,
+   "status": "ok"
+  },
+  {
+   "w": 3,
+   "h": 6,
+   "published": 235781,
+   "computed": 235781,
+   "status": "ok"
+  },
+  {
+   "w": 4,
+   "h": 6,
+   "published": 15835683,
+   "computed": 15835683,
+   "status": "ok"
+  },
+  {
+   "w": 5,
+   "h": 6,
+   "published": 1044334437,
+   "computed": 1044334437,
+   "status": "ok"
+  },
+  {
+   "w": 6,
+   "h": 6,
+   "published": 69173028785,
+   "computed": null,
+   "status": "skipped",
+   "reason": "bitmap of 75065537680 bytes"
+  },
+  {
+   "w": 7,
+   "h": 6,
+   "published": 4531985219092,
+   "computed": null,
+   "status": "skipped",
+   "reason": "bitmap of 8841079999440 bytes"
+  },
+  {
+   "w": 1,
+   "h": 5,
+   "published": 6,
+   "computed": 6,
+   "status": "ok"
+  },
+  {
+   "w": 2,
+   "h": 5,
+   "published": 537,
+   "computed": 537,
+   "status": "ok"
+  },
+  {
+   "w": 3,
+   "h": 5,
+   "published": 38310,
+   "computed": 38310,
+   "status": "ok"
+  },
+  {
+   "w": 4,
+   "h": 5,
+   "published": 1706255,
+   "computed": 1706255,
+   "status": "ok"
+  },
+  {
+   "w": 5,
+   "h": 5,
+   "published": 69763700,
+   "computed": 69763700,
+   "status": "ok"
+  },
+  {
+   "w": 6,
+   "h": 5,
+   "published": 2818972642,
+   "computed": 2818972642,
+   "status": "ok"
+  },
+  {
+   "w": 7,
+   "h": 5,
+   "published": 112829665923,
+   "computed": null,
+   "status": "skipped",
+   "reason": "bitmap of 72459780472 bytes"
+  },
+  {
+   "w": 1,
+   "h": 4,
+   "published": 5,
+   "computed": 5,
+   "status": "ok"
+  },
+  {
+   "w": 2,
+   "h": 4,
+   "published": 179,
+   "computed": 179,
+   "status": "ok"
+  },
+  {
+   "w": 3,
+   "h": 4,
+   "published": 6000,
+   "computed": 6000,
+   "status": "ok"
+  },
+  {
+   "w": 4,
+   "h": 4,
+   "published": 161029,
+   "computed": 161029,
+   "status": "ok"
+  },
+  {
+   "w": 5,
+   "h": 4,
+   "published": 3945711,
+   "computed": 3945711,
+   "status": "ok"
+  },
+  {
+   "w": 6,
+   "h": 4,
+   "published": 94910577,
+   "computed": 94910577,
+   "status": "ok"
+  },
+  {
+   "w": 7,
+   "h": 4,
+   "published": 2265792710,
+   "computed": 2265792710,
+   "status": "ok"
+  },
+  {
+   "w": 8,
+   "h": 4,
+   "published": 54233186631,
+   "computed": null,
+   "status": "skipped",
+   "reason": "bitmap of 16681627136 bytes"
+  },
+  {
+   "w": 1,
+   "h": 3,
+   "published": 4,
+   "computed": 4,
+   "status": "ok"
+  },
+  {
+   "w": 2,
+   "h": 3,
+   "published": 58,
+   "computed": 58,
+   "status": "ok"
+  },
+  {
+   "w": 3,
+   "h": 3,
+   "published": 869,
+   "computed": 869,
+   "status": "ok"
+  },
+  {
+   "w": 4,
+   "h": 3,
+   "published": 12031,
+   "computed": 12031,
+   "status": "ok"
+  },
+  {
+   "w": 5,
+   "h": 3,
+   "published": 158911,
+   "computed": 158911,
+   "status": "ok"
+  },
+  {
+   "w": 6,
+   "h": 3,
+   "published": 2087325,
+   "computed": 2087325,
+   "status": "ok"
+  },
+  {
+   "w": 7,
+   "h": 3,
+   "published": 27441956,
+   "computed": 27441956,
+   "status": "ok"
+  },
+  {
+   "w": 8,
+   "h": 3,
+   "published": 362940958,
+   "computed": 362940958,
+   "status": "ok"
+  },
+  {
+   "w": 1,
+   "h": 2,
+   "published": 3,
+   "computed": 3,
+   "status": "ok"
+  },
+  {
+   "w": 2,
+   "h": 2,
+   "published": 18,
+   "computed": 18,
+   "status": "ok"
+  },
+  {
+   "w": 3,
+   "h": 2,
+   "published": 116,
+   "computed": 116,
+   "status": "ok"
+  },
+  {
+   "w": 4,
+   "h": 2,
+   "published": 741,
+   "computed": 741,
+   "status": "ok"
+  },
+  {
+   "w": 5,
+   "h": 2,
+   "published": 4688,
+   "computed": 4688,
+   "status": "ok"
+  },
+  {
+   "w": 6,
+   "h": 2,
+   "published": 29737,
+   "computed": 29737,
+   "status": "ok"
+  },
+  {
+   "w": 7,
+   "h": 2,
+   "published": 189648,
+   "computed": 189648,
+   "status": "ok"
+  },
+  {
+   "w": 8,
+   "h": 2,
+   "published": 1216721,
+   "computed": 1216721,
+   "status": "ok"
+  },
+  {
+   "w": 1,
+   "h": 1,
+   "published": 2,
+   "computed": 2,
+   "status": "ok"
+  },
+  {
+   "w": 2,
+   "h": 1,
+   "published": 5,
+   "computed": 5,
+   "status": "ok"
+  },
+  {
+   "w": 3,
+   "h": 1,
+   "published": 13,
+   "computed": 13,
+   "status": "ok"
+  },
+  {
+   "w": 4,
+   "h": 1,
+   "published": 35,
+   "computed": 35,
+   "status": "ok"
+  },
+  {
+   "w": 5,
+   "h": 1,
+   "published": 96,
+   "computed": 96,
+   "status": "ok"
+  },
+  {
+   "w": 6,
+   "h": 1,
+   "published": 267,
+   "computed": 267,
+   "status": "ok"
+  },
+  {
+   "w": 7,
+   "h": 1,
+   "published": 750,
+   "computed": 750,
+   "status": "ok"
+  },
+  {
+   "w": 8,
+   "h": 1,
+   "published": 2118,
+   "computed": 2118,
+   "status": "ok"
+  }
+ ],
+ "playOn": [
+  {
+   "w": 4,
+   "h": 4,
+   "playOn": 187927,
+   "published": 161029,
+   "ratio": 1.1670382353489124
+  },
+  {
+   "w": 4,
+   "h": 5,
+   "playOn": 2788681,
+   "published": 1706255,
+   "ratio": 1.6343870054593246
+  },
+  {
+   "w": 5,
+   "h": 4,
+   "playOn": 5464758,
+   "published": 3945711,
+   "ratio": 1.3849868882946572
+  },
+  {
+   "w": 4,
+   "h": 6,
+   "playOn": 41008811,
+   "published": 15835683,
+   "ratio": 2.5896458649746905
+  },
+  {
+   "w": 6,
+   "h": 4,
+   "playOn": 157805437,
+   "published": 94910577,
+   "ratio": 1.6626749303188832
+  },
+  {
+   "w": 5,
+   "h": 5,
+   "playOn": 166128418,
+   "published": 69763700,
+   "ratio": 2.3813017084816317
+  }
+ ],
+ "levels": {
+  "computed": [
+   1,
+   7,
+   49,
+   238,
+   1120,
+   4263,
+   16422,
+   54859,
+   184275,
+   558186,
+   1662623,
+   4568683,
+   12236101,
+   30929111
+  ],
+  "published": [
+   1,
+   7,
+   49,
+   238,
+   1120,
+   4263,
+   16422,
+   54859,
+   184275,
+   558186,
+   1662623,
+   4568683,
+   12236101,
+   30929111
+  ],
+  "matched": 14
+ },
+ "book": {
+  "7x6": [
+   {
+    "score": -2,
+    "exact": true
+   },
+   {
+    "score": -1,
+    "exact": true
+   },
+   {
+    "score": 0,
+    "exact": true
+   },
+   {
+    "score": 1,
+    "exact": true
+   },
+   {
+    "score": 0,
+    "exact": true
+   },
+   {
+    "score": -1,
+    "exact": true
+   },
+   {
+    "score": -2,
+    "exact": true
+   }
+  ]
+ },
+ "wiki": [
+  {
+   "columns": [
+    4
+   ],
+   "value": "+",
+   "ply": 41,
+   "quote": "the first player can force a win, on or before the 41st move by starting in the middle column",
+   "computedValue": [
+    "+"
+   ],
+   "computedPly": [
+    41
+   ],
+   "status": "ok"
+  },
+  {
+   "columns": [
+    3,
+    5
+   ],
+   "value": "=",
+   "ply": null,
+   "quote": "a theoretical draw when the first player starts in the columns adjacent to the center",
+   "computedValue": [
+    "=",
+    "="
+   ],
+   "computedPly": [
+    null,
+    null
+   ],
+   "status": "ok"
+  },
+  {
+   "columns": [
+    1,
+    7
+   ],
+   "value": "-",
+   "ply": 40,
+   "quote": "column 1 and 2 on left (or column 7 and 6 on right), the exact move-value score for first player start is loss on the 40th move",
+   "computedValue": [
+    "-",
+    "-"
+   ],
+   "computedPly": [
+    40,
+    40
+   ],
+   "status": "ok"
+  },
+  {
+   "columns": [
+    2,
+    6
+   ],
+   "value": "-",
+   "ply": 42,
+   "quote": "... and loss on the 42nd move, respectively",
+   "computedValue": [
+    "-",
+    "-"
+   ],
+   "computedPly": [
+    42,
+    42
+   ],
+   "status": "ok"
+  }
+ ],
+ "notes": [
+  "<strong>Who wins, by board size.</strong> Tromp's table has 37 cells. The native solver attempted 29 and agrees on <strong>24</strong>; 5×10 (600 s), 9×5 (600 s), 10×5 (600 s), 10×4 (1500 s), 11×4 (600 s) hit the time cap. The other wide boards took Tromp thousands of CPU hours (9×6 in 2005, 8×8 in 2015) and were not attempted; 8×8 does not fit the 64-bit board.",
+  "<strong>7×6, the standard board</strong>, is a first-player win: 1,953,546,441 positions searched for the win/draw/loss answer.",
+  "<strong>Legal positions.</strong> 50 of Tromp's 55 counts recomputed exactly by marking every reachable position in a bitmap; 5×7, 6×6, 7×6, 7×5, 8×4 need a bigger bitmap than this run allowed.",
+  "<strong>7×6 ply by ply.</strong> OEIS A212693 recomputed for plies 0–13: 14 of 14 terms match.",
+  "<strong>The counting convention matters.</strong> Tromp's numbers stop the game at four in a row. Letting play continue after a win gives 187,927 on 4×4, 2,788,681 on 4×5, 5,464,758 on 5×4 — none of them in the table.",
+  "<strong>Wikipedia's first-move values for 7×6</strong>: 4 of 4 claims reproduced (centre wins on ply 41, the adjacent columns draw, columns 1 and 2 lose on plies 40 and 42)."
+ ]
+}

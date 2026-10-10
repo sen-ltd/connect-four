@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Connect Four — perfect play on every board size, and Tromp's tables recomputed</title>
+    <meta
+      name="description"
+      content="Play Connect Four against a perfect player on any board from 4x4 to 11x4. One C solver, compiled to WebAssembly for the page and natively to recompute John Tromp's table of who wins on each board size and his counts of legal positions."
+    />
+    <link
+      rel="icon"
+      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%232355c9'/%3E%3Ccircle cx='10' cy='22' r='5' fill='%23f2c230'/%3E%3Ccircle cx='22' cy='22' r='5' fill='%23e5484d'/%3E%3Ccircle cx='22' cy='10' r='5' fill='%23f2c230'/%3E%3Ccircle cx='10' cy='10' r='5' fill='%2314161a'/%3E%3C/svg%3E"
+    />
+  </head>
+  <body>
+    <main>
+      <header>
+        <h1>Connect Four <span>solved, on every board size</span></h1>
+        <p class="sub">
+          Drop discs; four in a row wins. The numbers above the columns are a <strong>perfect player's</strong> verdict
+          for the side to move: <em>win in 5</em> means five more of your own discs, with best play on both sides.
+          They come from a C solver compiled to WebAssembly and running in your tab. The same C file, compiled
+          natively, recomputed John Tromp's table of <strong>who wins on each board size</strong> and his
+          <strong>counts of legal positions</strong> — on the side.
+        </p>
+      </header>
+
+      <div id="wrap">
+        <div class="stage">
+          <div class="controls">
+            <label class="sel">board <select id="sizeSel"></select></label>
+            <label class="sel">you play <select id="sideSel">
+              <option value="1">first (yellow)</option>
+              <option value="2">second (red)</option>
+              <option value="0">both sides</option>
+            </select></label>
+            <button id="newGame">New game</button>
+            <button id="undo">Undo</button>
+            <button id="hint">Hint</button>
+            <label class="sel check"><input type="checkbox" id="showEval" checked /> show verdicts</label>
+          </div>
+          <div id="board" role="grid" aria-label="Connect Four board"></div>
+          <div id="status" aria-live="polite"></div>
+        </div>
+        <div class="side">
+          <h3>who wins with perfect play <span class="dim">(Tromp)</span></h3>
+          <div class="panel" id="table"></div>
+          <h3>legal positions <span class="dim">(Tromp)</span></h3>
+          <div class="panel" id="counts"></div>
+        </div>
+      </div>
+
+      <section class="notes" id="notes"></section>
+
+      <footer>
+        <p>
+          Built by <a href="https://sen.ltd/">SEN LLC</a>. C for the solver (native and WebAssembly), TypeScript for the
+          page. <a href="https://github.com/sen-ltd/connect-four">Source</a>.
+        </p>
+      </footer>
+    </main>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>
